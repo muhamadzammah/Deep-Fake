@@ -1,0 +1,20 @@
+===== CONFUSION MATRIX =====
+[[7539  780]
+ [ 630 9133]]
+
+===== CLASSIFICATION REPORT =====
+              precision    recall  f1-score   support
+
+           0       0.92      0.91      0.91      8319
+           1       0.92      0.94      0.93      9763
+
+    accuracy                           0.92     18082
+   macro avg       0.92      0.92      0.92     18082
+weighted avg       0.92      0.92      0.92     18082
+
+===== METRICS =====
+Akurasi   : 0.9220
+Precision : 0.9213
+Recall    : 0.9355
+F1-Score  : 0.9283
+AUC       : 0.9764
